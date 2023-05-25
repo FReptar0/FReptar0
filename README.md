@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freptar0" alt="freptar0" /></a> </p>
 
-- 🔭 I’m currently working on [SIMAPI](https://github.com/FReptar0/simapi)
+- 🔭 I’m currently working on [tersoft-webpage](https://github.com/FReptar0/tersoft-webpage)
 
 - 👨‍💻 All of my projects are available at [https://github.com/FReptar0/](https://github.com/FReptar0/)
 
