@@ -24,5 +24,5 @@
 
 <p><img align="left" style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=freptar0&show_icons=true&locale=en&layout=compact" alt="freptar0" /></p>
 
-<p>&nbsp;<img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=freptar0&show_icons=true&locale=en" alt="freptar0" /></p>
+<p><img align="center" style="width: 70%" src="https://github-readme-stats.vercel.app/api?username=freptar0&show_icons=true&locale=en" alt="freptar0" /></p>
 
