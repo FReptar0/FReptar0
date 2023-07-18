@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Rodríguez Memije</h1>
 <h3 align="center">Crafting innovative solutions through code: Life as a Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freptar0title=MultiLanguage,Commits,Repositories,Stars,PullRequest" alt="freptar0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freptar0&title=MultiLanguage,Commits,Repositories,Stars,PullRequest" alt="freptar0" /></a> </p>
 
 - 🔭 I’m currently working on [tersoft-webpage](https://github.com/FReptar0/tersoft-webpage)
 
