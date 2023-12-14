@@ -4,6 +4,14 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FReptar0.FReptar0&left_text=Profile%20views"  />
+</div>
+
+###
+
+###
+
 <h2 align="left">Languages and Tools:</h2>
 
 ###
@@ -76,14 +84,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
-</div>
-
-###
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FReptar0.FReptar0&left_text=Profile%20views"  />
 </div>
 
 ###
