@@ -96,7 +96,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Qardeal](https://github.com/FReptar0/cardeal)
+- 🔭 I’m currently working on [Sageconnect](https://github.com/FReptar0/sageconnect)
 
 - 🌱 I’m currently learning **Next.js, UX/UI Design and Redis**
 
