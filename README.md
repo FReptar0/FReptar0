@@ -96,7 +96,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Sageconnect](https://github.com/FReptar0/sageconnect)
+- 🔭 I’m currently working on [Goat Hiking](https://github.com/FReptar0/goat-hiking)
 
 - 🌱 I’m currently learning **Next.js, UX/UI Design and Redis**
 
