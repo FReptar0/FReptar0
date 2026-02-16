@@ -96,7 +96,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Goat Hiking](https://github.com/FReptar0/goat-hiking)
+- 🔭 I’m currently working on [Nexwork](https://github.com/FReptar0/tersoft-managment)
 
 - 🌱 I’m currently learning **Next.js, UX/UI Design and Redis**
 
