@@ -104,7 +104,7 @@
 
 - 💬 Ask me about **Next.js, Node.js, JavaScript, TypeScript and Java**
 
-- 📫 How to reach me **fmemije00@gmail.com**
+- 📫 How to reach me **hi@fernandomemije.dev**
 
 - ⚡ Fun fact **I have been programming since I turned 12 years old.**
 
@@ -121,7 +121,7 @@
   <a href="https://www.hackerrank.com/profile/fmemije00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:fmemije00@gmail.com" target="_blank">
+  <a href="mailto:hi@fernandomemije.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/fernandormxd03" target="_blank">
