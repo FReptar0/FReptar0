@@ -44,14 +44,18 @@ Currently exploring AI tooling, Rust, and Go.
 
 ## Stack
 
-```
-Daily        TypeScript  Node.js  Next.js  Java  Spring  Python
-Data         PostgreSQL  Redis  MongoDB  SQL Server
-Cloud        AWS  GCP  Vercel  Docker  Linux  Nginx
-Building     Go  Rust  Claude Code  MCP
-```
+**Daily**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FReptar0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FReptar0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,java,spring,py" height="30" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" height="30" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="30" />
+
+**Cloud & Infra**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,linux,nginx" height="30" />
+
+**Building with**
+
+<img src="https://skillicons.dev/icons?i=go,rust" height="30" /> <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/MCP-4F46E5?style=flat-square&logoColor=white" height="30" />
